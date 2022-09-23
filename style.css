@@ -1,0 +1,30 @@
+
+html {
+    font-size: 20px; 
+    font-family: 'Noto Sans', sans-serif;
+    background-color: rgb(145, 141, 136);
+    }
+    a {
+      color: black;
+    }
+    body{
+      width: 600px;
+      margin: 0 auto;
+      background-color: #8c94d8;
+      padding: 0 50px 50px 50px;
+      border: 5px solid rgb(29, 5, 5)}
+ h1
+   {
+    font-size: 60px; text-align: center;
+   }
+   li,p
+   {
+   font-size: 16px;
+   line-height: 1;
+  letter-spacing: 1px;
+   }
+ img 
+ {
+width: 45%;
+height: 200px;
+ }
